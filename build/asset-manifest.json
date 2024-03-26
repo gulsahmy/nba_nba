@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.2433e15f.css",
+    "main.js": "./static/js/main.499f43df.js",
+    "static/media/NBA2K24-STORE-COVER-ASSET-STD-3840x2160_1_.jpg": "./static/media/NBA2K24-STORE-COVER-ASSET-STD-3840x2160_1_.8c7e3770eba89d7abc05.jpg",
+    "index.html": "./index.html",
+    "main.2433e15f.css.map": "./static/css/main.2433e15f.css.map",
+    "main.499f43df.js.map": "./static/js/main.499f43df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2433e15f.css",
+    "static/js/main.499f43df.js"
+  ]
+}
